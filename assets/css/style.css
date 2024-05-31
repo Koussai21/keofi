@@ -409,7 +409,7 @@ body.active { overflow: hidden; }
 }
 
 .hero-title {
-  max-width: 10ch;
+  max-width: 20ch;
   margin-block: 10px 50px;
 }
 
